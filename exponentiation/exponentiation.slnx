@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="exponentiation.vcxproj" Id="9df94498-d996-4cb0-8e22-d8a96c8b1702" />
+</Solution>
